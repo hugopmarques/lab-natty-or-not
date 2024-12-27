@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Mensagem de ano novo artificial :)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Memsagem de feliciação de ano novo para enviar aos parentes!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+NLP, IA's de processamento de audio e video
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ChatGPT - criação da mensagem
+ElevenLabs - clonagem do padrão de voz
+HeyGen - criação do avatar
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito empolgante! A ideia do projeto foi exatamete criar um video totalmente artificial e que fosse capaz de coonfundir pessoas conhecidas quanto à veracidade, ainda que sem qualquer refinamento.
+Tanto que o treinamento para clonagem de voz foi realizado com os requisitos mínimos (apenas 10 audios de 30 seguntos) e a criação do avatar com menos de um minuto de duração.
 ```
 
 ### Exemplos e Insigths
