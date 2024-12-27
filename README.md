@@ -1,24 +1,5 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
 # Mensagem de ano novo artificial :)
 
@@ -26,29 +7,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Memsagem de feliciação de ano novo para enviar aos parentes!
 
 ## 🤖 Tecnologias Utilizadas
-NLP, IA's de processamento de audio e video
+1 - ChatGPT : Para gerar a mensagem de Feliz Ano Novo
+https://chatgpt.com/
+
+2 - ElevenLabs : Para Clonagem da voz
+https://elevenlabs.io/
+
+3 - HeyGen : Para criação do avatar
+https://app.heygen.com/
 
 ## 🧐 Processo de Criação
-ChatGPT - criação da mensagem
-ElevenLabs - clonagem do padrão de voz
-HeyGen - criação do avatar
+Utilizei o CgatGPT para criar o teor da mensagem de felicitação. Na Sequência, clonei a minha voz usando a funcionalidade "Text to Speech" do ElevenLabs e, por fim, gerei um avatar com o HeyGen e adiconei a goz gerada anteriormente.
+Fiz questão de gerar gerar tudo com IA, o sentido era produzir um conteúdo 100% artificial. O material foi produzido sem refinamentos, de modo que gerei o modelo de voz com a quantidade mínima de audios (10 audios curtos, na média de 30s cada) e o avatar com um vídeo de pucos segundos para o treinamento.
+O Propósito era aferir o quão hábil a IA seria em gerar um vídeo fake com o nínimo de material de treinamento possível e com quase nenhum feedback corretivo.
+O resultado toi impressionante!
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Muito empolgante! A ideia do projeto foi exatamete criar um video totalmente artificial e que fosse capaz de coonfundir pessoas conhecidas quanto à veracidade, ainda que sem qualquer refinamento.
-Tanto que o treinamento para clonagem de voz foi realizado com os requisitos mínimos (apenas 10 audios de 30 seguntos) e a criação do avatar com menos de um minuto de duração.
+Muito empolgante! Gerar este vídeo foi fantástico, pois pude ter uma clara percepção do quão simples é manusear os artefatos de IA para criação de conteúdo.
+Normalmente lemos sobre este tipo de assunto em páginas de notícias e imaginamos como algo distante, mas está tudo à mão, de forma simples e prática.
+No entanto ainda há um fator impeditivo, o custo. Todos estes serviços de IA estão disponíveis para testes bastante reduzidos, apenas o suficiente para o usuário aferir que a ferramente funcione. No meu caso, o suficiente pra gerar este conteúdo! :)
+
+
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
