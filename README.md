@@ -23,7 +23,7 @@ O Propósito era aferir o quão hábil a IA seria em gerar um vídeo fake com o 
 O resultado toi impressionante!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Veja o vídeo: https://github.com/hugopmarques/lab-natty-or-not/blob/main/Feliz2025.mp4
 
 ## 💭 Reflexão (Opcional)
 Muito empolgante! Gerar este vídeo foi fantástico, pois pude ter uma clara percepção do quão simples é manusear os artefatos de IA para criação de conteúdo.
